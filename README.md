@@ -4,22 +4,22 @@
 * Gradle
 ```java
 dependencies {
-	  implementation 'com.github.hanjie511:DateTimePicker:1.0.0'
+    implementation 'com.github.hanjie511:DateTimePicker:1.0.0'
 	}
 ```
 * maven
 ```java
 <repositories>
-		<repository>
-		    <id>jitpack.io</id>
-		    <url>https://jitpack.io</url>
-		</repository>
-	</repositories>
+  <repository>
+      <id>jitpack.io</id>
+      <url>https://jitpack.io</url>
+      </repository>
+      </repositories>
   <dependency>
-	    <groupId>com.github.hanjie511</groupId>
-	    <artifactId>DateTimePicker</artifactId>
-	    <version>1.0.0</version>
-	</dependency>
+      <groupId>com.github.hanjie511</groupId>
+      <artifactId>DateTimePicker</artifactId>
+      <version>1.0.0</version>
+  </dependency>
   ```  
   # 在项目中如何引用
   ```java
