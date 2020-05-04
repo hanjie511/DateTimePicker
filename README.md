@@ -42,6 +42,6 @@ dependencies {
         });
 ``` 
 # 节目效果
-![展示效果](https://github.com/hanjie511/DateTimePicker/blob/master/SVID_20200504_175016_1.gif)
+![展示效果](https://github.com/hanjie511/DateTimePicker/blob/master/MyVideo_2.gif)
 
   
